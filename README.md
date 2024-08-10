@@ -1,4 +1,4 @@
-# Board-Game-Card-Deck-Prototyper (BGCDP)
+# Card-Deck-Prototyper (CDP)
 This is a very minimal collection of scripts used to prototype card decks in board games.
 
 
@@ -17,6 +17,5 @@ Have you ever wanted to make a board game, but the amount of cards you need to m
 
 # Notes
 - As previously stated, only run the ```py draw.py``` and the ```py refresh.py``` scripts when in the ```./virtual_card_deck``` directory.
-- As of right now, when you draw a card, the directory of the card is shown and then the card is moved to the discard_pile folder. To see the information on the card, you have to go into the discard_pile directory and open the card you just drew. This is hopefully going to be changed in the future.
 - I am very inexperienced with python, and cannot guarantee that this will work. Even though it shouldn't damage anything, I am not responsible for any lost data or damaged hardware.
 - This was made for a small project I was working on, so I probably will not update it to make it easier or nicer to use for a long time, if at all. 
