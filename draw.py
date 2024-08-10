@@ -9,7 +9,11 @@ if len(os.listdir(dir)) == 0:
 	print("The deck is empty")
 else:
 	file = random.choice(os.listdir("./last_drawn_card"))
-	shutil.move("./last_drawn_card/"+file, "./discard_pile")
+	if file ==  "placeholder.txt":
+		os.remove("./last_drawn_card/placeholder.txt")
+	else:
+		shutil.move("./last_drawn_card/"+file, "./discard_pile")
+
 	file = random.choice(os.listdir(dir))
 	print(file)
 	shutil.rmtree("./last_drawn_card")
