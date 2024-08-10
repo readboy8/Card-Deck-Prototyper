@@ -1,4 +1,4 @@
-# Card-Deck-Prototyper (CDP)
+# CLI-Card-Deck-Prototyper (CLICDP)
 This is a very minimal collection of scripts used to prototype card decks in board games.
 
 
