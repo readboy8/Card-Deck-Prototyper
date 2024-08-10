@@ -1,5 +1,5 @@
 # CLI-Card-Deck-Prototyper (CLICDP)
-This is a very minimal collection of scripts used to prototype card decks in board games.
+This is a very minimal collection of scripts used to prototype card decks in board games using the command-line-interface.
 
 
 # Introduction
