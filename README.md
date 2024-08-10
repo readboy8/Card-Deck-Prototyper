@@ -18,4 +18,5 @@ Have you ever wanted to make a board game, but the amount of cards you need to m
 # Notes
 - As previously stated, only run the ```py draw.py``` and the ```py refresh.py``` scripts when in the ```./virtual_card_deck``` directory.
 - I am very inexperienced with python, and cannot guarantee that this will work. Even though it shouldn't damage anything, I am not responsible for any lost data or damaged hardware.
+- This project is heavy in user-involvment, and is very unprofessional.
 - This was made for a small project I was working on, so I probably will not update it to make it easier or nicer to use for a long time, if at all. 
